@@ -9,7 +9,7 @@ button{
     width:150 ;
     height: 20;
     font-style: normal;
-    margin-top: 450;
+    margin-top: 400;
     margin-left: 400;
     color: #000;
     background-color: yellowgreen;
@@ -18,5 +18,5 @@ button{
 h1{
     color: #000;
     margin-top: 50;
-    margin-left: 200;
+    margin-left: 150;
 }
