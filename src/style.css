@@ -1,0 +1,16 @@
+html{
+   background-image:url(prince.jpg) ;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+}
+button{
+    width:200 ;
+    height: 20;
+    font-style: normal;
+    margin-top: 100;
+    margin-left: 300;
+    color: aqua;
+    background-color: yellowgreen;
+}
