@@ -6,11 +6,11 @@ html{
    background-repeat: no-repeat;
 }
 button{
-    width:200 ;
+    width:80 ;
     height: 20;
     font-style: normal;
-    margin-top: 100;
-    margin-left: 300;
-    color: aqua;
+    margin-top: 150;
+    margin-left: 200;
+    color: #000;
     background-color: yellowgreen;
 }
