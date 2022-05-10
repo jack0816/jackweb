@@ -9,9 +9,14 @@ button{
     width:150 ;
     height: 20;
     font-style: normal;
-    margin-top: 150;
-    margin-left: 200;
+    margin-top: 450;
+    margin-left: 400;
     color: #000;
     background-color: yellowgreen;
     border-radius: 10%;
+}
+h1{
+    color: #000;
+    margin-top: 50;
+    margin-left: 200;
 }
