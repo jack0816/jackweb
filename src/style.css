@@ -1,18 +1,18 @@
 html{
-   background-image:url(ppp.jpg) ;
+   background-image:url(background.jpg);
    background-size: cover;
    background-position: center;
    background-attachment: fixed;
    background-repeat: no-repeat;
 }
 button{
-    width:150 ;
-    height:20;
+    width:250 ;
+    height:40;
     font-style: normal;
-    margin-top: 350;
-    margin-left: 550;
+    margin-top: 450;
+    margin-left: 500;
     color: #000;
-    background-color: yellowgreen;
+    background-color: pink;
     border-radius: 10%;
 }
 h1{
